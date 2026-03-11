@@ -146,8 +146,9 @@ FlowPay/ ├── docs/ │ ├── Project_Report.pdf │ └── FlowPay_
 
 ## 📄 Project Documentation
 
-- [Full Project Report](docs/Project_Report.pdf)
-- [Survey Results](research/survey_results.pdf)
+[FlowPay.pdf](https://github.com/user-attachments/files/25886307/FlowPay.pdf)
+
+[FlowPay.pptx](https://github.com/user-attachments/files/25886308/FlowPay.pptx)
 
 ---
 
